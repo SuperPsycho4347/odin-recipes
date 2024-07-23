@@ -1,7 +1,7 @@
 * {
     font-family: Poppins, sans-serif;
     list-style: none;
-    background-color: #F3EEEA;
+    background-color: #f0ecd3;
 }
 
 h1 {
@@ -20,7 +20,11 @@ li {
 
 a {
     text-decoration: none;
-    color: #B0A695;
+    color: #555f49;
+}
+
+a:hover {
+    color: #314123;
 }
 
 .recipes {
