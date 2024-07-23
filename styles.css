@@ -1,0 +1,29 @@
+* {
+    font-family: Poppins, sans-serif;
+    list-style: none;
+    background-color: #F3EEEA;
+}
+
+h1 {
+    text-align: center;
+    color: #776B5D;
+}
+
+img {
+    width: 500;
+    height: 270;
+}
+
+li {
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+    color: #B0A695;
+}
+
+.recipes {
+    text-align: center;
+    margin-left: -50px;
+}
